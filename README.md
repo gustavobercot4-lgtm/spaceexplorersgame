@@ -7,7 +7,6 @@ Team: Pillars of Creation
 NASA Space Apps Challenge 2026 - "Abandoned but not Forgotten"
 
 Play: https://gustavobercot4-lgtm.github.io/spaceexplorersgame/spaceexplorersgame.html
-Demo video: Space_Explorers_NASA_Space_Apps_30s_narrado.mp4
 
 Data: NASA, JPL and NSSDCA. Images: JPL Photojournal and NASA Image and Video Library.
 Independent educational game, not officially affiliated with NASA.
